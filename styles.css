@@ -3,3 +3,27 @@
     font-weight: 500;
     
 }
+
+.svg{
+    margin-left: -21px;
+    margin-top: -1px;
+}
+
+.icn{
+    height: 30px;
+    margin: 13px;
+}
+.contactus{
+    background-image: url('./images/bg-contact1.jpg');
+    background-size: cover;
+
+}
+
+.whyus{
+    background-color: #ECECEC;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
